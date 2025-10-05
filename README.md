@@ -30,7 +30,7 @@ A robust offline autosave utility for Microsoft Word that works similarly to One
 
 1. **Clone or download this repository**:
    ```
-   git clone https://github.com/nwdjvd/WordLocalAutosave.git
+   git clone https://github.com/nawidjavid/WordLocalAutosave.git
    cd WordLocalAutosave
    ```
 
