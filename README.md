@@ -1,6 +1,5 @@
 # Word Local Autosave
 
-![Python Application](https://github.com/nwdjvd/WordLocalAutosave/workflows/Python%20Application/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
 
